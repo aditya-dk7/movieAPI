@@ -7,7 +7,7 @@ movies = [
             "genre": "Action, Adventure, Fantasy",
             "year": "2021",
             "star": "Henry Cavill, Ben Affleck, Gal Gadot, Amy Adams",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/1.png?raw=true",
             "runtime": "242 min"
         },
         {
@@ -18,7 +18,7 @@ movies = [
             "genre": "Comedy",
             "year": "2021",
             "star": "Eddie Murphy, Arsenio Hall, Shari Headley, Jermaine Fowler",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BZTMyY2Q2MDctMDFlMS00MWEzLTk1NmEtNDcxNzg1ZGJlNGU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/2.png?raw=true",
             "runtime": "110 min"
         },
         {
@@ -29,7 +29,7 @@ movies = [
             "genre": "Crime, Drama",
             "year": "2021",
             "star": "Tom Holland, Ciara Bravo, Jack Reynor, Forrest Goodluck",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BOTZkMzlkYmItZDAyNy00NmZhLWE3MWItMzQyNDhkYzcwMTFmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/3.png?raw=true",
             "runtime": "142 min"
         },
         {
@@ -40,7 +40,7 @@ movies = [
             "genre": "Animation, Action, Adventure",
             "year": "2021",
             "star": "Kelly Marie Tran, Awkwafina, Gemma Chan, Izaac Wang",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/4.png?raw=true",
             "runtime": "107 min"
         },
         {
@@ -51,7 +51,7 @@ movies = [
             "genre": "Comedy, Family",
             "year": "2021",
             "star": "Jennifer Garner, Edgar Ramírez, Jenna Ortega, Julian Lerner",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BNTMwMzA4YzYtMzkwNC00N2ZhLTk5MjQtMjg3ODA3NDY3ZmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/5.png?raw=true",
             "runtime": "86 min"
         },
         {
@@ -61,7 +61,7 @@ movies = [
             "genre": "Action, Adventure, Fantasy",
             "year": "2021",
             "star": "Lewis Tan, Jessica McNamee, Josh Lawson, Hiroyuki Sanada",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BYzk1YTE2YzEtMWJkYi00NWJiLWFmOTgtNTUwODkzNDk4NWE1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/6.png?raw=true"
         },
         {
             "id": "7",
@@ -71,7 +71,7 @@ movies = [
             "genre": "Drama, Thriller",
             "year": "2021",
             "star": "Greer Grammer, Kristin Davis, Dermot Mulroney, Shanola Hampton",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BNzE3YTY3NjUtNWY0YS00NmVkLThhYmEtYWQxMjFhN2UwN2IxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/7.png?raw=true",
             "runtime": "114 min"
         },
         {
@@ -82,7 +82,7 @@ movies = [
             "genre": "Biography, Drama, History",
             "year": "2021",
             "star": "Daniel Kaluuya, LaKeith Stanfield, Jesse Plemons, Dominique Fishback",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BOTYwNWNmM2UtNDhlOC00ZGQzLWI1MTMtMmZlMTFjM2Y1N2ZhXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/8.png?raw=true",
             "runtime": "126 min"
         },
         {
@@ -93,7 +93,7 @@ movies = [
             "genre": "Action",
             "year": "2021",
             "star": "Sam Heughan, Ruby Rose, Andy Serkis, Hannah John-Kamen",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BYzVjMWU4OGUtNGEyZS00MjJiLWIzNTMtNDk1NDdmMDUwYTAyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/9.png?raw=true",
             "runtime": "123 min"
         },
         {
@@ -104,7 +104,7 @@ movies = [
             "genre": "Action, Sci-Fi, Thriller",
             "year": "2021",
             "star": "Alexander Skarsgård, Millie Bobby Brown, Rebecca Hall, Brian Tyree Henry",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BZmYzMzU4NjctNDI0Mi00MGExLWI3ZDQtYzQzYThmYzc2ZmNjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/10.png?raw=true",
             "runtime": "113 min"
         },
         {
@@ -114,7 +114,7 @@ movies = [
             "genre": "Drama, Music, Musical",
             "year": "2021",
             "star": "Stephanie Beatriz, Anthony Ramos, Lin-Manuel Miranda, Ariana Greenblatt",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BZDkzYmM5M2EtMjQxMS00ZDNiLTkwOWQtOTExZDdiMDIxNmQxXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/11.png?raw=true",
             "runtime": "120 min"
         },
         {
@@ -125,7 +125,7 @@ movies = [
             "genre": "Adventure, Sci-Fi",
             "year": "2021",
             "star": "Tom Holland, Daisy Ridley, Demián Bichir, David Oyelowo",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BYTcxYTk3MWQtZThlMS00ZjQ0LTg0NjktNGVkNWM2MTAyYWJmXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/12.png?raw=true",
             "runtime": "109 min"
         },
         {
@@ -136,7 +136,7 @@ movies = [
             "genre": "Comedy, Drama, Music",
             "year": "2021",
             "star": "Hadley Robinson, Lauren Tsai, Alycia Pascual-Pena, Nico Hiraga",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BNjkwYzY2OTgtYjNiZi00YmNiLTk5YTQtZTQyZjM1YzA1ZmMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/13.png?raw=true",
             "runtime": "111 min"
         },
         {
@@ -147,7 +147,7 @@ movies = [
             "genre": "Action, Mystery, Sci-Fi",
             "year": "2021",
             "star": "Frank Grillo, Mel Gibson, Naomi Watts, Michelle Yeoh",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BNTVkODdiMjAtNmQ5Yy00OThhLTg4MDItYTZlYTFmN2E0M2M1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/14.png?raw=true",
             "runtime": "94 min"
         },
         {
@@ -158,7 +158,7 @@ movies = [
             "genre": "Action, Adventure, Thriller",
             "year": "2021",
             "star": "Famke Janssen, Freddie Highmore, Astrid Bergès-Frisbey, Liam Cunningham",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BZTliM2M5MjktZmY2NC00NjdlLWE5YzUtNDU2NzA0MzkyMDNlXkEyXkFqcGdeQXVyMTE1Nzg4NjY0._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/15.png?raw=true",
             "runtime": "118 min"
         },
         {
@@ -168,7 +168,7 @@ movies = [
             "genre": "Horror",
             "year": "2021",
             "star": "Jeffrey Dean Morgan, Cary Elwes, Katie Aselton, William Sadler",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BY2VhOTgxZGEtNGRiZi00NzVkLWE3MGEtZTRjNWEwY2MwZTI0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY98_CR5,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/16.png?raw=true"
         },
         {
             "id": "17",
@@ -178,7 +178,7 @@ movies = [
             "genre": "Drama, Thriller",
             "year": "2021",
             "star": "Tahar Rahim, Nouhe Hamady Bari, Saadna Hamoud, Mohamed Yeslem Mousse",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BODJlMzdlYzItMzRkNi00NTE0LTliZjQtMTllNzkxNDVhNjkxXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/17.png?raw=true",
             "runtime": "129 min"
         },
         {
@@ -188,7 +188,7 @@ movies = [
             "genre": "Action, Adventure, Sci-Fi",
             "year": "2021",
             "star": "Scarlett Johansson, Florence Pugh, David Harbour, Rachel Weisz",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMzFiODE0ZDUtN2IxNC00OTI5LTg4OWItZTE2MjU4ZTk2NjM5XkEyXkFqcGdeQXVyNDYzODU1ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/18.png?raw=true",
             "runtime": "133 min"
         },
         {
@@ -199,7 +199,7 @@ movies = [
             "genre": "Animation, Comedy, Family",
             "year": "2021",
             "star": "Chloë Grace Moretz, Michael Peña, Colin Jost, Tom",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BYzE3ODhiNzAtOWY4MS00NTdiLThmNDctNDM4NjRiNGFmYjI1XkEyXkFqcGdeQXVyMTI2ODM1ODUw._V1_UY98_CR5,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/19.png?raw=true",
             "runtime": "101 min"
         },
         {
@@ -210,7 +210,7 @@ movies = [
             "genre": "Crime, Drama, Thriller",
             "year": "2021",
             "star": "Denzel Washington, Rami Malek, Jared Leto, Chris Bauer",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BOGFlNTdmYWQtM2IzMi00YTY3LTlmMDQtZDI5NGQ5MjYzZmEwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/20.png?raw=true",
             "runtime": "128 min"
         },
         {
@@ -221,7 +221,7 @@ movies = [
             "genre": "Drama",
             "year": "2021",
             "star": "Çagatay Ulusoy, Emir Ali Dogrul, Ersin Arici, Turgay Tanülkü",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMWYxOTFlMjgtZTMyMS00OGRkLTk5ZGEtMDI2N2ZjN2EzZjg4XkEyXkFqcGdeQXVyMTIyMjI4OTkx._V1_UY98_CR1,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/21.png?raw=true",
             "runtime": "96 min"
         },
         {
@@ -232,7 +232,7 @@ movies = [
             "genre": "Action, Crime, Drama",
             "year": "2021",
             "star": "Bob Odenkirk, Aleksey Serebryakov, Connie Nielsen, Christopher Lloyd",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/22.png?raw=true",
             "runtime": "92 min"
         },
         {
@@ -242,7 +242,7 @@ movies = [
             "genre": "Action, Adventure, Fantasy",
             "year": "2021",
             "star": "Margot Robbie, Idris Elba, John Cena, Joel Kinnaman",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMzEzNzEyM2EtODM3OC00NWM4LTk3OTEtZjg3YjEzYTM1Zjk2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/23.png?raw=true"
         },
         {
             "id": "24",
@@ -252,7 +252,7 @@ movies = [
             "genre": "Biography, Drama, History",
             "year": "2021",
             "star": "Carey Mulligan, Ralph Fiennes, Lily James, Johnny Flynn",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BY2RmZmI0NDMtMGQzOC00YWU3LTkwYWUtMDRkNDBjZDg3YTkyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/24.png?raw=true",
             "runtime": "112 min"
         },
         {
@@ -263,7 +263,7 @@ movies = [
             "genre": "Action, Adventure, Sci-Fi",
             "year": "2021",
             "star": "Frank Grillo, Bruce Willis, Brandon Thomas Lee, Corey Large",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMjI3YjY0YmItYWI5OS00MTgwLWI4NjYtM2M3N2RhNTljMGVkXkEyXkFqcGdeQXVyODEwNTMxOTA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/25.png?raw=true",
             "runtime": "88 min"
         },
         {
@@ -273,7 +273,7 @@ movies = [
             "genre": "Comedy, Crime",
             "year": "2021",
             "star": "Emma Stone, Mark Strong, Emma Thompson, Paul Walter Hauser",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BZWQ1YjNiMTItZjkwZS00NDMyLThiOWEtNzBkMzAzMWU2ZDUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/26.png?raw=true"
         },
         {
             "id": "27",
@@ -283,7 +283,7 @@ movies = [
             "genre": "Drama, Thriller",
             "year": "2021",
             "star": "Gary Oldman, Armie Hammer, Evangeline Lilly, Greg Kinnear",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMjg5MDFiOGMtNDE1OS00NjQ5LThjZGEtZjExMjAwOTZiYTQ1XkEyXkFqcGdeQXVyNzk4OTQyODU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/27.png?raw=true",
             "runtime": "118 min"
         },
         {
@@ -293,7 +293,7 @@ movies = [
             "genre": "Action, Crime, Horror",
             "year": "2021",
             "star": "Dave Bautista, Ella Purnell, Ana de la Reguera, Samantha Win",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMjNmN2QzNmEtMTBjNS00NTU5LTk3NjgtZTJkZjk5MzgzYzkyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/28.png?raw=true"
         },
         {
             "id": "29",
@@ -302,7 +302,7 @@ movies = [
             "genre": "Action, Adventure, Sci-Fi",
             "year": "2021",
             "star": "Tom Holland, Benedict Cumberbatch, Zendaya, Marisa Tomei",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BNTMxOGI4OGMtMTgwMy00NmFjLWIyOTUtYjQ0OGQ4Mjk0YjNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/29.png?raw=true"
         },
         {
             "id": "30",
@@ -311,7 +311,7 @@ movies = [
             "genre": "Adventure, Sci-Fi, Thriller",
             "year": "2021",
             "star": "Colin Farrell, Tye Sheridan, Lily-Rose Depp, Isaac Hempstead Wright",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BZDIzODQyODQtYzIyYy00MDE5LWJmZjMtMDRmYTRkNzAyZjAzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/30.png?raw=true",
             "runtime": "108 min"
         },
         {
@@ -322,7 +322,7 @@ movies = [
             "genre": "Biography, Drama, Music",
             "year": "2021",
             "star": "Andra Day, Trevante Rhodes, Garrett Hedlund, Natasha Lyonne",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BN2FjZDU0MGMtZDkxMi00M2VmLTkyNDQtNTFjYjIzYzMxMjgwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/31.png?raw=true",
             "runtime": "130 min"
         },
         {
@@ -333,7 +333,7 @@ movies = [
             "genre": "Horror, Thriller",
             "year": "2021",
             "star": "Charlotte Vega, Adain Bradley, Bill Sage, Emma Dumont",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BM2Y5ZWE2MTMtODE3ZC00NWQ4LWJkNzctNGY4Njg5NDY5MzNlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/32.png?raw=true",
             "runtime": "109 min"
         },
         {
@@ -343,7 +343,7 @@ movies = [
             "genre": "Adventure, Drama, Sci-Fi",
             "year": "2021",
             "star": "Jason Momoa, Zendaya, Rebecca Ferguson, Timothée Chalamet",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMGFkZGY0NTgtMGEyZC00YzhjLTkyOWItYzMzOTljMDA3ZjU2XkEyXkFqcGdeQXVyNzc4NTU3Njg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/33.png?raw=true"
         },
         {
             "id": "34",
@@ -353,7 +353,7 @@ movies = [
             "genre": "Crime, Thriller",
             "year": "2021",
             "star": "Jake Etheridge, Sydney Kowalske, Liam Pileggi, Emma Myers",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMTdkYWE4ZGQtOGZkMy00ZTg1LWE5ODEtZWRlMjQ3NWQ2N2I2XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/34.png?raw=true",
             "runtime": "88 min"
         },
         {
@@ -364,7 +364,7 @@ movies = [
             "genre": "Comedy, Crime, Romance",
             "year": "2021",
             "star": "Kerry Bishé, Joel McHale, Al Madrigal, Natalie Zea",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMGMxMzBhNDQtODJhNy00NDBmLWI5NTYtMTJkMjUxYjE0OWZjXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/35.png?raw=true",
             "runtime": "96 min"
         },
         {
@@ -375,7 +375,7 @@ movies = [
             "genre": "Crime, Drama",
             "year": "2021",
             "star": "Adarsh Gourav, Rajkummar Rao, Priyanka Chopra, Vedant Sinha",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMDVkMDRkMzItN2EyYS00ZTI5LTljYzgtNzRmZDQ0OTQ3M2VjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/36.png?raw=true",
             "runtime": "125 min"
         },
         {
@@ -385,7 +385,7 @@ movies = [
             "genre": "Action, Sci-Fi",
             "year": "2021",
             "star": "Keanu Reeves, Priyanka Chopra, Carrie-Anne Moss, Jessica Henwick",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BN2I5NzlmMWYtYjIwYy00Y2ZiLWI0ODgtYjAxNDZiZGJlMjlhXkEyXkFqcGdeQXVyMzk1MDQ2MQ@@._V1_UY98_CR40,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/37.png?raw=true"
         },
         {
             "id": "38",
@@ -394,7 +394,7 @@ movies = [
             "genre": "Action, Adventure, Thriller",
             "year": "2021",
             "star": "Daniel Craig, Ana de Armas, Rami Malek, Ralph Fiennes",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BMTk3ZGM2YzQtMmYxYy00NDZjLWFmOTUtZTQwMzg0ZjA5ZjU3XkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/38.png?raw=true",
             "runtime": "163 min"
         },
         {
@@ -405,7 +405,7 @@ movies = [
             "genre": "Action, Adventure, Comedy",
             "year": "2021",
             "star": "Ryan Reynolds, Jodie Comer, Taika Waititi, Joe Keery",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BYTNjNzFiZTItNDM5NS00ODBhLTk5NmMtYzUyZWRmOWJjOTI3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/39.png?raw=true"
         },
         {
             "id": "40",
@@ -414,7 +414,7 @@ movies = [
             "genre": "Action, Adventure, Drama",
             "year": "2021",
             "star": "Gemma Chan, Angelina Jolie, Salma Hayek, Richard Madden",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BOTYzMTlhM2ItMmFkYi00ZTJhLTg3MWQtNzM1NTRkM2NiNzRjXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY98_CR2,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/40.png?raw=true"
         },
         {
             "id": "41",
@@ -424,7 +424,7 @@ movies = [
             "genre": "Action, Drama, Thriller",
             "year": "2021",
             "star": "Olga Kurylenko, Marilyn Lima, Michel Nabokoff, Martin Swabey",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BZDA5ZGVkZGMtNzk1My00YTU5LTgxYWUtODBlYmQyZjRjZjg4XkEyXkFqcGdeQXVyMTE5MTkxMDI2._V1_UY98_CR3,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/41.png?raw=true",
             "runtime": "80 min"
         },
         {
@@ -435,7 +435,7 @@ movies = [
             "genre": "Action, Comedy, Horror",
             "year": "2021",
             "star": "Nicolas Cage, Emily Tosta, Beth Grant, Ric Reitz",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BOTc3ZjVkYTYtMDZiMC00OTliLWE3OTEtYjY5NTBmNGJjYTBmXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/42.png?raw=true",
             "runtime": "88 min"
         },
         {
@@ -446,7 +446,7 @@ movies = [
             "genre": "Drama",
             "year": "2021",
             "star": "Justin Timberlake, Juno Temple, Alisha Wainwright, Ryder Allen",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BYTZhNzM4MDktYWUwMC00NTE1LTlkN2UtM2Y5ODIwYjZmNTA2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/43.png?raw=true",
             "runtime": "110 min"
         },
         {
@@ -456,7 +456,7 @@ movies = [
             "genre": "Action, Drama",
             "year": "2021",
             "star": "Tom Cruise, Jennifer Connelly, Miles Teller, Danny Ramirez",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BNTEyYTA5YWYtYmIxYS00NWRlLWExNjMtNjliZmVlZDgxNTBlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/44.png?raw=true"
         },
         {
             "id": "45",
@@ -465,7 +465,7 @@ movies = [
             "genre": "Action, Adventure, Thriller",
             "year": "2021",
             "star": "Vanessa Kirby, Tom Cruise, Rebecca Ferguson, Hayley Atwell",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BNzlmY2QwMDgtMWFjNC00NGU0LWI2NDctNmMxYjkyNTk3MzZjXkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UY98_CR5,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/45.png?raw=true"
         },
         {
             "id": "46",
@@ -474,7 +474,7 @@ movies = [
             "genre": "Action, Horror, Sci-Fi",
             "year": "2021",
             "star": "Tom Hardy, Michelle Williams, Woody Harrelson, Stephen Graham",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BZjVmYzVjZWUtODE3NS00ZTExLThhMTUtNzU3ZGE2NGYwOWE4XkEyXkFqcGdeQXVyMTAwODc1OTcy._V1_UY98_CR15,0,67,98_AL_.jpg"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/46.png?raw=true"
         },
         {
             "id": "47",
@@ -484,7 +484,7 @@ movies = [
             "genre": "Comedy",
             "year": "2021",
             "star": "Naveen Polishetty, Priyadarshi, Rahul Ramakrishna, Faria Abdullah",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BNTY5ZTcwOTEtNGU0MS00NWFkLWExZDUtMTljY2Y2YWMxNGNlXkEyXkFqcGdeQXVyMTI1NDAzMzM0._V1_UY98_CR1,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/47.png?raw=true",
             "runtime": "145 min"
         },
         {
@@ -495,7 +495,7 @@ movies = [
             "genre": "Drama, Romance",
             "year": "2021",
             "star": "Victoria Justice, Matthew Daddario, Katherine McNamara, Lucien Laviscount",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BYjJlZDI4NTYtYjQzMi00ZmM0LWIxZDEtMzgwNTBjYjc4MTZlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/48.png?raw=true",
             "runtime": "94 min"
         },
         {
@@ -505,7 +505,7 @@ movies = [
             "genre": "Action, Adventure, Crime",
             "year": "2021",
             "star": "Vin Diesel, Michelle Rodriguez, Charlize Theron, Michael Rooker",
-            "imgurl": "https://m.media-amazon.com/images/M/MV5BZDZlMjc0MTItZWY2YS00ZDJhLWI2M2MtODVjNWFmYTQxYmJjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/49.png?raw=true",
             "runtime": "145 min"
         },
         {
@@ -515,6 +515,7 @@ movies = [
             "genre": "Crime, Drama, Thriller",
             "year": "2021",
             "star": "Jared Leto, Al Pacino, Adam Driver, Jeremy Irons",
-            "imgurl": "https://m.media-amazon.com/images/S/sash/NapCxx-VwSOJtCZ.png"
+            "imgurl": "https://raw.githubusercontent.com/aditya-dk7/movieAPI/main/resized_image_api/50.png?raw=true"
         }
     ]
+
