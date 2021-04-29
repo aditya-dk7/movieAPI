@@ -4,7 +4,7 @@ from data import movies
 from randomMovie import pick_random_movie
 
 app = flask.Flask(__name__)
-app.config["DEBUG"] = True
+#app.config["DEBUG"] = True
 
 
 @app.route('/', methods=['GET'])
@@ -50,4 +50,6 @@ def api_id():
     results.headers.add('Access-Control-Allow-Origin', '*')
     return results
 
-app.run(port=6767)
+if __name__ == '__main__':
+    # Threaded option to enable multiple instances for multiple user access support
+    app.run(threaded=True, port=5000)
