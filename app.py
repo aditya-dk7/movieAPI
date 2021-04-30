@@ -2,25 +2,30 @@ import flask
 from flask import request, jsonify
 from data import movies
 from randomMovie import pick_random_movie
-
 app = flask.Flask(__name__)
 #app.config["DEBUG"] = True
 
 
 @app.route('/', methods=['GET'])
 def home():
+    print(request)
+    print(request.headers.get('your-header-name'))
     return '''<h1>Movie List Archive</h1>
 <p>A prototype API for the latest 2021 movies.</p>'''
 
 
 @app.route('/api/v1/resources/movies/all', methods=['GET'])
 def api_all():
+    print(request)
+    print(request.headers.get('your-header-name'))
     response = jsonify(movies)
     response.headers.add('Access-Control-Allow-Origin', '*')
     return response
 
 @app.route('/api/v1/resources/movies/random', methods=['GET'])
 def api_random():
+    print(request)
+    print(request.headers.get('your-header-name'))
     result = []
     if 'genre' in request.args:
         genre = str(request.args['genre'])
@@ -38,6 +43,8 @@ def api_random():
 
 @app.route('/api/v1/resources/movies', methods=['GET'])
 def api_id():
+    print(request)
+    print(request.headers.get('your-header-name'))
     if 'id' in request.args:
         id = int(request.args['id'])
     else:
