@@ -24,7 +24,7 @@ def api_all():
 
 @app.route('/api/v1/resources/movies/random', methods=['GET'])
 def api_random():
-    print(request)
+    print("FOR DEBUG: ", request)
     print(request.headers.get('your-header-name'))
     result = []
     if 'genre' in request.args:
